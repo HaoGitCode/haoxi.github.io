@@ -447,7 +447,7 @@ ol.type li a:hover {
 .timeline>li .timeline-panel:before {
 	right: auto;
 	left: -15px;
-	border-right-width: 100px;
+	border-right-width: 30px;
 	border-left-width: 0;
 }
 .timeline>li .timeline-panel:after {
@@ -504,7 +504,7 @@ ol.type li a:hover {
 .timeline .timeline-heading h4.subheading {
 	text-transform: none;
 	color: #629ca7;
-	font-size: 10px;
+	font-size: 20px;
 }
 .timeline .timeline-body>p, .timeline .timeline-body>ul {
 	margin-bottom: 0;
