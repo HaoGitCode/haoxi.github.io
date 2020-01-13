@@ -447,7 +447,7 @@ ol.type li a:hover {
 .timeline>li .timeline-panel:before {
 	right: auto;
 	left: -15px;
-	border-right-width: 15px;
+	border-right-width: 5px;
 	border-left-width: 0;
 }
 .timeline>li .timeline-panel:after {
