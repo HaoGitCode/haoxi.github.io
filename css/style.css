@@ -441,13 +441,13 @@ ol.type li a:hover {
 	float: right;
 	position: relative;
 	width: 100%;
-	padding: 0 20px 0 100px;
+	padding: 0 20px 0 200px;
 	text-align: left;
 }
 .timeline>li .timeline-panel:before {
 	right: auto;
 	left: -15px;
-	border-right-width: 5px;
+	border-right-width: 15px;
 	border-left-width: 0;
 }
 .timeline>li .timeline-panel:after {
